@@ -1,8 +1,7 @@
 - 👋 Hi, I’m kishore, pursuing Mca from vel's institute of science technology and advanced studies,
 - 👀 Looking for opportunities to join an IT company that can help me in enhancing my skills and strengthening my knowledge.
       I am willing to explore a wide variety of opportunities that can help me to gain perspective towards new technologies.,
-- 🌱 I’m currently learning full stack web development and advanced java,
-- 💞️ Currently I'm doing internship @edureka as full stack web developer.
+- 🌱 I’m currently learning javascript.
 - 📫 you can contact at kishore2000.kr@gmail.com or @kishore2000rk(twitter).
 
 <!---
