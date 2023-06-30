@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kishorer2000&label=Profile%20views&color=0e75b6&style=flat" alt="kishorer2000" /> </p>
 <p align="left"> <a href="https://twitter.com/kishore2000rk" target="blank"><img src="https://img.shields.io/twitter/follow/kishore2000rk?logo=twitter&style=for-the-badge" alt="kishore2000rk" /></a> </p>
 
-- 🌱 I’m currently learning **java,javascript**
+- 🌱 I’m currently learning **c#,javascript,react**
 
 - 📫 How to reach me **kishore2000.kr@gmail.com**
 
